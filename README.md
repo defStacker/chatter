@@ -1,3 +1,4 @@
+IMPORT
 >Install rabbitmq 
 >Install Postgres database 
 >Import database from the database folder all.sql
